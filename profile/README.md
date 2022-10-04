@@ -1,4 +1,4 @@
-![](../mec_banner.png)
+![](mec_banner.png)
 
 ## Hi there 👋
 
