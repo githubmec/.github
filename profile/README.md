@@ -1,7 +1,5 @@
 ![](https://github.com/githubmec/.github/blob/main/profile/mec_banner.png)
 
-## Hi there 👋
-
 ## ¿Quiénes somos?
 
 En Mec nos especializamos en proyectos *end to end*, integrando el *soft* y el *hard* para brindar soluciones llave en mano. Somos apasionados de la tecnología y estamos comprometidos con brindar la máxima calidad en nuestros productos y servicios.
