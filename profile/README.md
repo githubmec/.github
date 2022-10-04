@@ -1,4 +1,4 @@
-![](mec_banner.png)
+![](https://github.com/githubmec/.github/blob/main/profile/mec_banner.png)
 
 ## Hi there 👋
 
